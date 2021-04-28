@@ -1,0 +1,21 @@
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+img {
+ padding: 25px;
+ max-width: 500px;
+ margin: auto;
+}
+h1 {
+  font-family: 'Satisfy', cursive;
+}
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+  background-color: #E0F2F1;
+  color:  #004D40;
+  max-width: 40em;
+  padding: 0 5%;
+  margin: auto;
+  }
