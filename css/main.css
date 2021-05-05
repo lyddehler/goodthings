@@ -19,6 +19,7 @@ body {
   padding: 0 5%;
   margin: auto;
   }
+a, a:hover, a:active, a:visited { color: white; }
 /* The grid: Four equal columns that floats next to each other */
 .column {
   float: left;
