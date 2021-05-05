@@ -1,1 +1,27 @@
+<!-- The grid: four columns -->
+<div class="row">
+  <div class="column">
+    <img src="mar1.heic" alt="mar1" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="mar7.jpg" alt="mar7" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="mar28.jpg" alt="Mountains" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="mar25.heic" alt="Lights" onclick="myFunction(this);">
+  </div>
+</div>
 
+<!-- The expanding image container -->
+<div class="container">
+  <!-- Close the image -->
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+
+  <!-- Expanded image -->
+  <img id="expandedImg" style="width:100%">
+
+  <!-- Image text -->
+  <div id="imgtext"></div>
+</div>
