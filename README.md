@@ -56,3 +56,15 @@ div.desc {
 
 </body>
 </html>
+
+
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+img {
+ padding: 25px;
+ max-width: 500px;
+ margin: auto;
+}
