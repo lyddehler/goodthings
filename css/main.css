@@ -44,18 +44,6 @@ h1 {
   font: 5em/1.5 montserrat, sans-serif;
 }
 
-h2 {
-  font: 3em/1.5 montserrat, sans-serif;
-  padding-bottom: 0em;
-}
-
-a {
-  font: 1em/1.25 Montserrat, sans-serif;
-  padding: 1px;
-  color: #000000;
-  text-decoration: none;
-  text-align: center;
-}
 
 a:hover .work{
   padding: 7px;
@@ -67,10 +55,6 @@ a:hover .work{
     0 0 80px #C0C0C0;
 }
 
-h3 {
-  font: 2em/1.5 montserrat, sans-serif;
-  padding-bottom: 0em;
-}
 
 body {
   max-width: 70rem;
@@ -102,14 +86,6 @@ li {
   width: 50%;
 }
 
-li a {
-  color: #000000;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font: 1.5em/1.5 Comfortaa, sans-serif;
-}
-
 #grid {
   display: grid;
   display: grid;
@@ -123,12 +99,12 @@ figure {
 }
 
 figcaption {
-  font: 2em/1.25 Montserrat, sans-serif;
+  font: 2em/1.25 Bebas Neue, sans-serif;
   padding: 1rem;
 }
 
 p {
-   font: 1.2em/1.5 Comfortaa, sans-serif;
+   font: 1.2em/1.5 Bebas Neue, sans-serif;
 }
 
 .work {
