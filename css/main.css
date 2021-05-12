@@ -8,6 +8,7 @@ body {
   max-width: 40em;
   padding: 0 5%;
   margin: auto;
+  text-align: center;
   }
 
 a:link
@@ -94,7 +95,7 @@ li {
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
   grid-auto-rows: minmax(14rem, auto);
   gap: 1rem;
-  justify-items: center;
+  align-items: center;
 }
 
 figure {
