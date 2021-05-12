@@ -1,6 +1,14 @@
 h1 {
   font-family: 'Bebas Neue', cursive;
 }
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
+h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #483D8B;
